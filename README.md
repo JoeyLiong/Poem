@@ -1,2 +1,2 @@
 # Poem
-Just for exercise
+Exercise
